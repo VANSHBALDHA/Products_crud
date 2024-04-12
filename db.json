@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "usersdata": [
+    {
+      "productname": "Puma",
+      "productdescription": "puma demo testing",
+      "productprice": "1999",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "productname": "Adidas",
+      "productdescription": "Adidas test message",
+      "productprice": "2199"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
